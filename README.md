@@ -1,4 +1,4 @@
- ![MasterHead]([https://github.com/mehmettguzell/Photos/blob/main/_f0bd1ec5-65a1-48f2-adf2-d7bc37f7edaa.jpeg](https://github.com/mehmettguzell/Photos/blob/main/_f0bd1ec5-65a1-48f2-adf2-d7bc37f.jpg))
+ ![MasterHead](https://github.com/mehmettguzell/Photos/blob/main/_f0bd1ec5-65a1-48f2-adf2-d7bc37f.jpg)
 <h1 align="center">Hi 👋, I'm Mehmet Güzel</h1>
 <h3 align="center">I am a passionate software engineer from Turkey</h3>
 
