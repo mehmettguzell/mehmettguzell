@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Güzel</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Java**  
+- 🔭 I’m currently working on **Java**, **JavaScript**, **React**, **python** and **C#**
 - 🌱 I’m learning **Backend Development**, **Cyber Security**, and **Application Development**  
 - 📫 How to reach me: **mehmetg120031@gmail.com**
 
