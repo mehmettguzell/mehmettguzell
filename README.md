@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mehmet Güzel</h1>
-<h3 align="center">A passionate software engineer from Turkey</h3>
 
 - 🔭  I'm currently working on Web Application Development, Web Security, and Penetration Testing.
 - 📫 Gmail: **mehmetg120031@gmail.com**
