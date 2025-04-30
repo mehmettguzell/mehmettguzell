@@ -29,14 +29,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettguzell&show_icons=true&locale=en&layout=compact" alt="mehmettguzell" /></p>
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://buymeacoffee.com/mehmett_guzell" target="_blank">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettguzell&show_icons=true&locale=en&layout=compact" alt="mehmettguzell" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmettguzell&show_icons=true&locale=en" alt="mehmettguzell" /></p> -->
 
