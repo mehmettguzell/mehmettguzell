@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
 - 🔭  I'm currently working on Web Application Development, Web Security, and Penetration Testing.
-- 📫 How to reach me: **mehmetg120031@gmail.com**
+- 📫 Gmail: **mehmetg120031@gmail.com**
 
 <h3 align="left">My accounts:</h3>
 <p align="left">
