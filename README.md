@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Güzel</h1>
-<h3 align="center">Software Developer and Penetration Tester</h3>
+<h3 align="center">Penetration Tester</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
 - 🔭  I'm currently working on Web Application Development, Web Security, and Penetration Testing.
 - 📫 Gmail: **mehmetg120031@gmail.com**
 
