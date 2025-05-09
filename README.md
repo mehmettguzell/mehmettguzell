@@ -41,10 +41,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettguzell&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mehmettguzell" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmettguzell&theme=highcontrast&show_icons=true&locale=en" alt="mehmettguzell" /></p>
-
+<!--
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://buymeacoffee.com/mehmett_guzell" target="_blank">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
   </a>
 </p>
+-->
