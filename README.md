@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Güzel</h1>
-<h3 align="center">Penetration Tester</h3>
+<h3 align="center">Software Engineer & Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
 
