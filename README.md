@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
 
-- [My Microservice Project](https://github.com/mehmettguzell/MyMicroserviceProject)
+- [Fetaured Projects](https://github.com/stars/mehmettguzell/lists/featured-projects)
+- [School Projects](https://github.com/stars/mehmettguzell/lists/school-projects) 
+- [practice/learning Projects](https://github.com/stars/mehmettguzell/lists/practice-projects)
+  
 - 🔭  I'm currently working on Web Application Development, Web Security, and Penetration Testing.
 - 📫 Gmail: **mehmetg120031@gmail.com**
 
