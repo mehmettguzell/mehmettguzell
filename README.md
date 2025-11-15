@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mehmet Güzel</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
+
+<h3 align="left">Projects:</h3>
 
 - [Fetaured Projects](https://github.com/stars/mehmettguzell/lists/featured-projects)
 - [School Projects](https://github.com/stars/mehmettguzell/lists/school-projects) 
 <!-- - [practice/learning Projects](https://github.com/stars/mehmettguzell/lists/practice-projects) -->
-  
-- 🔭  Currently focusing on Full Stack Web Development, Web Security, and Penetration Testing.
+  ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
+
+- 🔭  Currently focusing on Full Stack Web Development, Web Security.
 - 📫 Gmail: **mehmetg120031@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">Social Media Accounts:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mehmet-guzel-817367230/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -25,6 +31,18 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>-->
 </p>
+
+---
+## HackerRank & LeetCode
+
+| Platform | Profile | Stats |
+|----------|---------|--------|
+| LeetCode | [My Profile](https://leetcode.com/mehmettguzell) | ![LeetCode Stats](https://leetcard.jacoblin.cool/mehmettguzell) |
+| HackerRank | [My Profile](https://www.hackerrank.com/mehmetg120031) | ![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=mehmetg120031)  |
+
+
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmettguzell&theme=highcontrast&show_icons=true&locale=en" alt="mehmettguzell" /></p>
 
 ---
 ### Backend
@@ -66,9 +84,6 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a>
 
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettguzell&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mehmettguzell" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmettguzell&theme=highcontrast&show_icons=true&locale=en" alt="mehmettguzell" /></p>
 <!--
 <h3 align="left">Support:</h3>
 <p>
