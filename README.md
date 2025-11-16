@@ -9,6 +9,14 @@
 <!-- - [practice/learning Projects](https://github.com/stars/mehmettguzell/lists/practice-projects) -->
   ---
 
+<h3 align="left">Solutions</h3>
+
+- [ProjectEuler+](https://github.com/mehmettguzell/My_ProjectEuler_Solutions)
+- [Leetcode75](https://github.com/mehmettguzell/Leetcode_75)
+- [All of my solutions](https://github.com/stars/mehmettguzell/lists/hackerrank-leetcode-solutions) 
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
 
 - 🔭  Currently focusing on Full Stack Web Development, Web Security.
