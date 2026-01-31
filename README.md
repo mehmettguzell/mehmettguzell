@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmettguzell&label=Profile%20views&color=0e75b6&style=plastic" alt="mehmettguzell" /> </p>
 
-- 🔭  Currently focusing on Full Stack Web Development, Web Security.
+- 🔭  Currently focused on backend development and web security
 - 📫 Gmail: **mehmetg120031@gmail.com**
 
 ---
