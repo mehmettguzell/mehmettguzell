@@ -26,7 +26,7 @@
 
 <h3 align="left">Social Media Accounts:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehmet-guzel-817367230/" target="blank">
+  <a href="https://www.linkedin.com/in/mehmett-guzell/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
     <a href="https://discord.gg/memozeko" target="blank">
